@@ -1,0 +1,574 @@
+Body {
+    font-family: "Open Sans", sans-serif;
+    /* Rectangle 7 */
+
+
+    position: absolute;
+    width: 1445px;
+    height: 4706px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+
+
+.nav-home {
+    position: absolute;
+    left: 33.03%;
+    right: 63.16%;
+    top: 0.49%;
+    bottom: 99.03%;
+
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-decoration: none;
+
+    /* Black */
+
+    color: #070707;
+}
+
+.nav-about {
+    position: absolute;
+    left: 39.68%;
+    right: 54.63%;
+    top: 0.49%;
+    bottom: 99.03%;
+
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-decoration: none;
+
+    color: #828282;
+}
+
+.nav-skills {
+    position: absolute;
+    left: 48.18%;
+    right: 48.9%;
+    top: 0.49%;
+    bottom: 99.03%;
+
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-decoration: none;
+
+    color: #828282;
+}
+
+.nav-portfolio {
+    position: absolute;
+    left: 53.93%;
+    right: 40.46%;
+    top: 0.49%;
+    bottom: 99.22%;
+
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-decoration: none;
+
+    color: #828282;
+}
+
+.nav-contacts {
+    position: absolute;
+    left: 61.89%;
+    right: 32.76%;
+    top: 0.49%;
+    bottom: 99.03%;
+
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-decoration: none;
+
+    color: #828282;
+}
+
+.nav-hr {
+    position: absolute;
+    width: 940.6px;
+    height: 0px;
+    left: 252px;
+    top: 74.94px;
+
+    border: 1px solid #828282;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.title-name {
+    position: absolute;
+    left: 17.23%;
+    right: 60.07%;
+    top: 2.32%;
+    bottom: 96.32%;
+
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 47.3392px;
+    line-height: 64px;
+    /* identical to box height */
+
+    /* Black */
+
+    color: #070707;
+}
+
+.title-img {
+    position: absolute;
+    width: 943.61px;
+    height: 387px;
+    left: 251.69px;
+    top: 211.96px;
+}
+
+
+/* About me */
+.rectangle-about-me {
+    position: absolute;
+    width: 1445px;
+    height: 517px;
+    left: 0px;
+    top: 699px;
+
+    background: #F6F6F6;
+}
+
+.title-about-me {
+    position: absolute;
+    left: 42.7%;
+    right: 43.39%;
+    top: 16.98%;
+    bottom: 82.12%;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 46px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+
+}
+
+.aboutMeDescription {
+    position: absolute;
+    width: 480px;
+    height: 246px;
+    left: 477.33px;
+    top: 200px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+}
+
+
+
+
+/* Skills */
+.rectangleSkills {
+
+    position: absolute;
+    width: 936.59px;
+    height: 396.14px;
+    left: 254px;
+    top: 1316.8px;
+}
+
+.title-skills {
+    position: absolute;
+    left: 45.56%;
+    right: 45.83%;
+    top: 0px;
+    bottom: 90%;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 46px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+}
+
+.skills-description {
+    /* I work in such programs as */
+
+
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    top: 17.47%;
+    bottom: 70.02%;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+}
+
+.ps {
+    position: absolute;
+
+    top: 200px;
+    left: 20%;
+
+
+    background: radial-gradient(75.99% 75.64% at 32.94% 22.44%, rgba(52, 54, 78, 0.98) 0%, #0C0824 100%);
+}
+
+.ps-text {
+    position: absolute;
+    top: 300px;
+    left: 18.5%;
+
+    font-family: 'Gilroy-Bold';
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #828282;
+
+}
+
+.ps-star {
+    position: absolute;
+    top: 360px;
+    left: 18%;
+}
+
+.ai {
+    position: absolute;
+    left: 40%;
+    top: 200px;
+
+    background: radial-gradient(76% 75.63% at 32.97% 22.44%, rgba(66, 51, 37, 0.98) 0%, #1C0A00 100%);
+}
+
+.ai-star {
+    position: absolute;
+    top: 360px;
+    left: 38%;
+}
+
+.ai-text {
+    position: absolute;
+    top: 300px;
+    left: 38.5%;
+
+    font-family: 'Gilroy-Bold';
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #828282;
+}
+
+.ae {
+    position: absolute;
+    left: 60%;
+    top: 200px;
+
+
+    background: radial-gradient(76% 75.63% at 32.97% 22.42%, rgba(68, 47, 85, 0.98) 0%, #12002C 100%);
+
+}
+
+.ae-text {
+    position: absolute;
+    top: 300px;
+    left: 58.5%;
+
+    font-family: 'Gilroy-Bold';
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #828282;
+}
+
+.ae-star {
+    position: absolute;
+    top: 360px;
+    left: 58.5%;
+}
+
+.figma {
+    position: absolute;
+    left: 80%;
+    top: 200px;
+
+}
+
+.figma-text {
+    position: absolute;
+    top: 300px;
+    left: 81%;
+
+    font-family: 'Gilroy-Bold';
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #828282;
+}
+
+.figma-star {
+    position: absolute;
+    top: 360px;
+    left: 78%;
+}
+
+/* Portfolio */
+
+.rectangle-portfolio {
+    /* Rectangle */
+
+
+    position: absolute;
+    width: 1445px;
+    height: 2239px;
+    left: 0px;
+    top: 1796px;
+
+    background: #F6F6F6;
+}
+
+.title-potfolio {
+    /* Portfolio */
+
+
+    position: absolute;
+    left: 44.08%;
+    right: 44.08%;
+    top: 4%;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 46px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+}
+
+.img-woman {
+    /* Слой 8 */
+
+    position: absolute;
+    width: 936.24px;
+    height: 510px;
+    left: 254px;
+    top: 250px;
+
+}
+
+.link-woman {
+    /* Online fashion store - Homepage */
+
+
+    position: absolute;
+    left: 40.42%;
+    right: 40.47%;
+    top: 35%;
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-decoration-line:
+}
+
+.img-reebok {
+
+    position: absolute;
+    width: 936.24px;
+    height: 522px;
+    left: 254px;
+    top: 900px;
+}
+
+.link-reebok {
+    /* Online fashion store - Homepage */
+
+
+    position: absolute;
+    left: 40.42%;
+    right: 40.47%;
+    top: 65%;
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-decoration-line:
+}
+
+.img-braun {
+
+    position: absolute;
+    width: 936.24px;
+    height: 522px;
+    left: 254px;
+    top: 1550px;
+}
+
+.link-braun {
+    /* Online fashion store - Homepage */
+
+
+    position: absolute;
+    left: 40.42%;
+    right: 40.47%;
+    top: 94%;
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-decoration-line:
+}
+
+/* footer */
+
+.foot {
+    position: absolute;
+    left: 40.42%;
+    right: 40.47%;
+    top: 94%;
+}
+
+.contacts {
+    /* Contacts */
+
+
+    position: absolute;
+    left: 43.67%;
+    right: 43.94%;
+    top: 87.88%;
+    bottom: 11.22%;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 46px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+}
+
+.contacts-description {
+    /* Want to know more or just chat? You are welcome! */
+
+
+    position: absolute;
+    left: 40.72%;
+    right: 40.24%;
+    top: 89.23%;
+    bottom: 9.84%;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+}
+
+.msg-btn {
+    /* Send message */
+    position: absolute;
+    left: 40.42%;
+    right: 40.47%;
+    top: 92%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height */
+    background-color: #070707;
+    border-radius: 60px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    padding: 10px 0px 10px 0px;
+    color: #FFFFFF;
+
+
+}
+
+.like-me {
+    /* Like me on LinkedIn, Instagram, Behance, Dribble */
+    position: absolute;
+    left: 41.73%;
+    right: 41.45%;
+    top: 95.6%;
+    bottom: 3.38%;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #828282;
+}
